@@ -3,3 +3,5 @@
 [recept2](recept2.txt)
 [recept3](recept3.txt)
 
+Учусь работать на GitHub
+
